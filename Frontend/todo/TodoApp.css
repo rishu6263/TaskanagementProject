@@ -1,0 +1,11 @@
+lable,input,login{
+margin: 10px;
+height: 20px;
+}
+.footer{
+    margin-bottom: 100%;
+    margin-left: 50%;
+    position: relative; 
+    width: fit-content;
+    height: 100px; 
+}
